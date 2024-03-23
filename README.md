@@ -17,6 +17,7 @@
 - Nuendo
 - Krita
 - Github
+- 
 ### SOFT SKILLS
 - Unreal engine 5
 
