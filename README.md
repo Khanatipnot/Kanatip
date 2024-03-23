@@ -12,12 +12,11 @@
 - Blender
 - 3D Max
 - Substance 3D Painter
-- Adobe Photoshop
 - Adobe Illustrator
 - Nuendo
 - Krita
 - Github
-- 
+
 ### SOFT SKILLS
 - Unreal engine 5
 
