@@ -25,7 +25,7 @@
 ## Zbrush
 ผมได้ใช้เวลา 1 เทอมทำผลงานต่างๆที่ผมได้เรียนรู้จากการฝึกและเรียนรู้จนได้เป็นผลงานที่ผมทำมา
 ### Godzilla
-![Zbrush Godzilla](/assets/img/Zbrush/ZBrush Godzilla.png
+![Zbrush Godzilla](assets/img/Zbrush/ZBrush Godzilla.png)
 
 ## Maya
 
