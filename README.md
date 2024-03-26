@@ -5,7 +5,7 @@
 และได้มาร่วมประสบการณ์ในการเล่นเกม ให้เป็นความทรงจำที่หน้าจดจำในการเล่นเกมของพวกเขา
 
 ## Software ต่างๆที่ผมใช้ในการทำงาน
-### HARD SKILLS
+### SKILLS
 - Unity
 - Zbrush
 - Maya
@@ -17,8 +17,6 @@
 - Nuendo
 - Krita
 - Github
-
-### SOFT SKILLS
 - Unreal engine 5
 - Examples
 - Adobe Premiere Pro
