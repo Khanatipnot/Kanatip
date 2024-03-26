@@ -14,18 +14,26 @@
 - Substance 3D Painter
 - Adobe Photoshop
 - Adobe Illustrator
-- Nuendo
+- Nuendo 13
 - Krita
 - Github
 - Unreal engine 5
-- Examples
+- Examples in Unity
 - Adobe Premiere Pro
 
-
-
-
+### ผลงานต่างๆที่ได้ทำ
 ## Zbrush
+ผมได้ใช้เวลา 1 เทอมทำผลงานต่างๆที่ผมได้เรียนรู้จากการฝึกและเรียนรู้จนได้เป็นผลงานที่ผมทำมา
 
+# Godzilla
 ![Zbrush Godzilla](/assets/img/Zbrush/ZBrush Godzilla.png
 
+## Maya
 
+## 3D Max
+
+## Adobe Illustrator
+
+## Unity 3D
+
+## Global Game Jam
